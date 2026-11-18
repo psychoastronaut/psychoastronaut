@@ -5,7 +5,7 @@
 *Somewhere between the prompt and the response, something is watching.*
 
 ![Profile views](https://komarev.com/ghpvc/?username=psychoastronaut&style=flat-square&color=8A2BE2&label=profile+views)
-[![Site](https://img.shields.io/badge/site-psychoastronaut.github.io-8A2BE2?style=flat-square)](https://psychoastronaut.github.io/aboutme/)
+[![Site](https://img.shields.io/badge/site-psychoastronaut.xyz-8A2BE2?style=flat-square)](https://psychoastronaut.xyz)
 
 </div>
 
@@ -25,7 +25,6 @@ Senior ML engineer obsessed with LLMs, evals and agents that run on hardware you
 | [**local-agent-kit**](https://github.com/psychoastronaut/local-agent-kit) | Run a 35B MoE coding agent on a 12 GB GPU. llama.cpp + llama-swap for opencode and Claude Code, with tuner and evals. Measured ~42 tok/s decode, 128k context on an RTX 3060, 10/12 on a Python eval suite. |
 | [**redteam-lab**](https://github.com/psychoastronaut/redteam-lab) | Local pentest lab for TryHackMe: LLM agent with guardrails, planner + worker orchestrator, web dashboard. |
 | [**DeepMosaicsPlus**](https://github.com/psychoastronaut/DeepMosaicsPlus) | Remove mosaics from images and video on any GPU, with DirectML support for AMD. |
-| [**aboutme**](https://github.com/psychoastronaut/aboutme) | My personal site. |
 
 ## Stack
 
@@ -54,7 +53,7 @@ Also: llama.cpp, DSPy, systemd, Caddy.
 
 ## Say hi / support
 
-Site: [psychoastronaut.github.io/aboutme](https://psychoastronaut.github.io/aboutme/)
+Site: [psychoastronaut.xyz](https://psychoastronaut.xyz)
 
 If something here helped you, you can buy me a coffee:
 
